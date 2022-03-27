@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## ✏️My Editor
+- Vim
+- VisualStudio Code
+- WebStorm
+- IntelLiJ IDEA
+- Rider
 ## 🏛️I'm in...
 - TRENDCreate
 - thinking
