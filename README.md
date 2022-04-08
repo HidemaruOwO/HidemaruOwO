@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ## ✏️My Editor
-- Vim
-- VisualStudio Code
-- WebStorm
-- IntelLiJ IDEA
-- Rider
+- Vim (メイン)
+- WebStorm (ウェブフロント)
+- IntelliJ IDEA
+- Rider (マルチプラットフォーム開発)
+- Visual Studio Code (Live Share)
+- Visual Studio (.Net開発全般)
 ## 🏛️I'm in...
 - TRENDCreate
 - thinking
