@@ -9,9 +9,7 @@
     <img height="20" src="https://img.shields.io/github/followers/HidemaruOwO?label=follow&logo=github&style=flat-square" />
   </a>
 </p>
-<p align="left" style="display:inline-block;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
 
 # Thanks for opening my profile :) 👍
 
