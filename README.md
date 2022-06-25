@@ -10,7 +10,7 @@
   </a>
 </p>
   <img src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&count_private=true&show_icons=true&exclude_repo=dotfiles" />
 
 # Thanks for opening my profile :) 👍
 
