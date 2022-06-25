@@ -10,6 +10,7 @@
   </a>
 </p>
   <img src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&hide=html)
 
 # Thanks for opening my profile :) 👍
 
