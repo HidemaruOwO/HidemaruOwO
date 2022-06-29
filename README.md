@@ -26,7 +26,7 @@
  - Go 💨
  - Bash $<font color="green">_</font>
 
-## 🤝 Projects I am collaborating on...
+## 🤝 Famous projects I have participated in...
 
 - [mncrp/monot](https://github.com/mncrp/monot)
 
