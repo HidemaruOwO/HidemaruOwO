@@ -19,7 +19,7 @@
 - [Manjaro Linux (Plasma)](https://manjaro.org)
 - [Wezterm](https://github.com/wez/wezterm) 🖥
 - [zsh](https://github.com/zsh-users/zsh) 🗣
-- [NeoVim](https://github.com/neovim/neovim) ([My Vim settings](https://github.com/HidemaruOwO/dotfiles/tree/master/.config/nvim)) <font color="green">𝙑</font>
+- [NeoVim](https://github.com/neovim/neovim) ([My Vim settings](https://github.com/HidemaruOwO/dotfiles/tree/master/config/nvim)) <font color="green">𝙑</font>
 
 ## 🎓 The programming language I am learning...
 
