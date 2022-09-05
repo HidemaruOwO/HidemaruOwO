@@ -1,18 +1,17 @@
-<p align="left"> 
-  <a href="https://github.com/HidemaruOwO/">
-    <img src="https://komarev.com/ghpvc/?username=HidemaruOwO&style=flat-square" alt="HidemaruOwO" />
-  </a>
-  <a href="http://twitter.com/Hidemaru_OwO">
-    <img height="20" src="https://img.shields.io/twitter/follow/Hidemaru_OwO?style=flat-square" />
-  </a>
-  <a href="https://github.com/HidemaruOwO">
-    <img height="20" src="https://img.shields.io/github/followers/HidemaruOwO?label=follow&logo=github&style=flat-square" />
-  </a>
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&count_private=true&show_icons=true&exclude_repo=dotfiles&hide=html,css" />
-
-# Thanks for opening my profile :) 👍
+<div style="display:inline-block; text-align:center;" >
+<h1>Thanks for opening my profile :) 👍</h1>
+<a href="https://github.com/HidemaruOwO/">
+  <img src="https://komarev.com/ghpvc/?username=HidemaruOwO&style=flat-square" alt="HidemaruOwO" />
+</a>
+<a href="http://twitter.com/Hidemaru_OwO">
+  <img height="20" src="https://img.shields.io/twitter/follow/Hidemaru_OwO?style=flat-square" />
+</a>
+<a href="https://github.com/HidemaruOwO">
+  <img height="20" src="https://img.shields.io/github/followers/HidemaruOwO?label=follow&logo=github&style=flat-square" />
+</a>
+<img src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=HidemaruOwO" />
+</div>
 
 ## ✏️ Development environment 💻
 
@@ -28,6 +27,8 @@
 - Rust ⚙️
 - Go 💨
 - Bash $<font color="green">\_</font>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&layout=compact&count_private=true&show_icons=true&exclude_repo=dotfiles&hide=html,css" />
 
 ## 🤝 Famous projects I have participated in...
 
