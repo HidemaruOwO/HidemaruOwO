@@ -2,6 +2,9 @@
 <a href="https://twitter.com/@hidemaru_owo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hidemaru_owo" height="30" width="40" /></a>
 <a href="https://discord.gg/28C6JB8myW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="28C6JB8myW" height="30" width="40" /></a>
 <h1>Thanks for opening my profile :) 👍</h1>
+<a href="https://wakatime.com/@cacca5e4-08ed-4904-aea9-eb5598de5f96">
+  <img src="https://wakatime.com/badge/user/cacca5e4-08ed-4904-aea9-eb5598de5f96.svg" alt="Total time coded since Jul 24 2022" />
+</a>
 <a href="https://github.com/HidemaruOwO/">
   <img src="https://komarev.com/ghpvc/?username=HidemaruOwO&style=flat-square" alt="HidemaruOwO" />
 </a>
