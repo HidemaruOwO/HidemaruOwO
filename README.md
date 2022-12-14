@@ -47,10 +47,9 @@
 
 ## 👀 About me.
 
-I was born and raised in Japan so my favorite foods are "sushi"🍣<br>
-And I also like "anime".<br>
-I need money for these, but I can't work because I'm a junior high school student :(<br>
-So I'll work a lot after I get high school👍
+I'm Japanese.
+Born and lives in Chiba.
+14y/o
 
 <div style="display:inline-block; text-align:center;" >
 <a href="https://ko-fi.com/hidemaruowo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hidemaruowo" /></a>
