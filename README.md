@@ -29,20 +29,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&layout=compact&count_private=true&show_icons=true&exclude_repo=dotfiles&hide=html,css" />
 
-## 🤝 Famous projects I have participated in...
-
-- [mncrp/monot](https://github.com/mncrp/monot)
-
-[![mncrp/monot - GitHub](https://gh-card.dev/repos/mncrp/monot.svg?fullname=)](https://github.com/mncrp/monot)
-
-- [YouTube-Video-to-Audio-Converter](https://github.com/HidemaruOwO/YouTube-Video-to-Audio-Converter)
-
-[![HidemaruOwO/YouTube-Video-to-Audio-Converter - GitHub](https://gh-card.dev/repos/HidemaruOwO/YouTube-Video-to-Audio-Converter.svg)](https://github.com/HidemaruOwO/YouTube-Video-to-Audio-Converter)
-
-- [discordjs-hcaptcha](https://github.com/HidemaruOwO/discordjs-hcaptcha)
-
-[![HidemaruOwO/discordjs-hcaptcha - GitHub](https://gh-card.dev/repos/HidemaruOwO/discordjs-hcaptcha.svg)](https://github.com/HidemaruOwO/discordjs-hcaptcha)
-
 ## 👀 About me.
 
 I'm Japanese.
