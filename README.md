@@ -16,6 +16,7 @@
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=HidemaruOwO&count_private=true&show_icons=true" />
 <img src="https://github-profile-trophy.vercel.app/?username=HidemaruOwO&row=1&column=7&margin-w=1" />
+<p>READMEをﾁｮｯﾄｺﾞｳｶにしてごめんなさい</p>
 </div>
 
 ## ✏️ Development environment 💻
