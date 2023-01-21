@@ -28,7 +28,7 @@
 
 ## 🎓 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&layout=compact&count_private=true&show_icons=true&exclude_repo=dotfiles&hide=html,css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&layout=compact&count_private=true&show_icons=true&hide=html,css,shell" />
 
 ## 👀 About me.
 
