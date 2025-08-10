@@ -10,6 +10,6 @@
 
 ### Programming Stats 📚
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&count_private=true&show_icons=true&hide=html,css,shell,python&exclude_repo=misskey,dotfiles,awesome-helloworld&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemaruOwO&count_private=true&show_icons=true&hide=html,css,shell,python&exclude_repo=misskey,conduit,dotfiles,awesome-helloworld&layout=compact" />
 
 ![image](https://github.com/user-attachments/assets/0c8337f0-3688-43c6-977a-0c79215afcc4)
